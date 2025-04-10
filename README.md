@@ -1,10 +1,4 @@
-#Temperature converter:
-A simple web application that converts temperatures between celsius,fahrenheit and kelvin.
-
-#Technologies Used:
-HTML,CSS and JavaScript
-
-#How to use: 
-Enter a temperature value
-Select a unit
-click convert to get the converted tenperature.
+The files are simple applications of HTML,CSS and JS
+1.Temperature converter -  which converts the given temperature into Kelvin,Celsius,Farenheit
+2.Calculator - which helps in computing basic arithmetic operations
+3.Do To List - which keeps our task schedule as pending tasks and completed tasks.
